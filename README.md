@@ -1,6 +1,4 @@
-# Slava or simply Slavik
-
-## Senior Full-stack Developer
+# Slava or just Slavik. Senior Full-stack Developer.
 
 Hello! I'm Slava, a dedicated and skilled Full-stack Developer with over 4 years of experience in the tech industry, specializing in crafting robust software solutions with a focus on test-driven development. My expertise spans across a comprehensive stack including JavaScript, TypeScript, React, Node.js, and more, enabling me to build scalable, efficient applications.
 
